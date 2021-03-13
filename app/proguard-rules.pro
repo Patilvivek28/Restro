@@ -19,3 +19,8 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+-keep class com.si.restro.data.Restaurants
+# The variable names are JSON key values and should not be obfuscated
+-keepclassmembers class com.si.restro.data.Restaurants { <fields>; }
+-keep class com.si.restro.data.Users
+-keepclassmembers class com.si.restro.data.Users { <fields>; }

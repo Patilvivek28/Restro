@@ -97,10 +97,10 @@ class HomeScreenActivity : AppCompatActivity() {
             AlertDialog.Builder(this)
                 .setTitle("Location permission")
                 .setMessage("This app requires access to you location.")
-                .setPositiveButton("Ask me") { dialog, which ->
+                .setPositiveButton("Ask me") { _, _ ->
                     requestLocationPermission()
                 }
-                .setNegativeButton("No") { dialog, which ->
+                .setNegativeButton("No") { _, _ ->
                     notifyDetailFragment(0.toDouble(), 0.toDouble())
                 }
                 .show()
@@ -136,11 +136,8 @@ class HomeScreenActivity : AppCompatActivity() {
         mainTextStringId: String, actionStringId: String,
         listener: View.OnClickListener
     ) {
-        Snackbar.make(binding.root, mainTextStringId, Snackbar.LENGTH_SHORT).setAction(
-            "Retry"
-        ) {
-            checkLocationPermission()
-        }
+        Snackbar.make(binding.root, mainTextStringId, Snackbar.LENGTH_SHORT)
+            .setAction(actionStringId, listener)
     }
 
     private fun checkPermissions(): Boolean {
