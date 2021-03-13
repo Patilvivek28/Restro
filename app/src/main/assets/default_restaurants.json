@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Annapurna",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "address": "96312 Forest Road",
+    "city": "Ratnagiri",
+    "loc_lat": 16.994444,
+    "loc_long": 73.300003
+  },
+  {
+    "id": 2,
+    "name": "Scandic Hotel",
+    "rating": 0,
+    "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "address": "kødbyen vesterbro",
+    "city": "Copenhagen",
+    "loc_lat": 32.7830575,
+    "loc_long": -79.9365839
+  },
+  {
+    "id": 3,
+    "name": "Boxcar Social",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=967&q=80",
+    "address": "39198 Mifflin Street",
+    "city": "Toronto",
+    "loc_lat": 34.151579,
+    "loc_long": 100.447492
+  },
+  {
+    "id": 4,
+    "name": "Finley",
+    "rating": 0,
+    "image": "https://images.unsplash.com/photo-1428515613728-6b4607e44363?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "address": "72753 Acker Trail",
+    "city": "Weitang",
+    "loc_lat": 31.463475,
+    "loc_long": 120.649341
+  },
+  {
+    "id": 5,
+    "name": "Genevieve",
+    "rating": 1,
+    "image": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+    "address": "43644 Pankratz Alley",
+    "city": "Karangsari",
+    "loc_lat": -6.427987,
+    "loc_long": 110.9561
+  },
+  {
+    "id": 6,
+    "name": "Nicky",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+    "address": "52 8th Point",
+    "city": "Alburitel",
+    "loc_lat": 39.6445351,
+    "loc_long": -8.5226286
+  },
+  {
+    "id": 7,
+    "name": "Nevins",
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+    "address": "68 Lake View Place",
+    "city": "Matinha",
+    "loc_lat": -3.0854936,
+    "loc_long": -44.9626829
+  },
+  {
+    "id": 8,
+    "name": "Christian",
+    "rating": 1,
+    "image": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+    "address": "41558 Schlimgen Park",
+    "city": "Dongshe",
+    "loc_lat": 23.701262,
+    "loc_long": 117.430061
+  },
+  {
+    "id": 9,
+    "name": "Babette",
+    "rating": 2,
+    "image": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+    "address": "1378 Waubesa Junction",
+    "city": "Caoxi",
+    "loc_lat": 35.657343,
+    "loc_long": 107.730679
+  },
+  {
+    "id": 10,
+    "name": "Yvonne",
+    "rating": 3,
+    "image": "https://images.unsplash.com/photo-1585518419759-7fe2e0fbf8a6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=924&q=80",
+    "address": "6 Dovetail Point",
+    "city": "Šenkovec",
+    "loc_lat": 46.4054155,
+    "loc_long": 16.4201451
+  },
+  {
+    "id": 11,
+    "name": "Adan",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1544148103-0773bf10d330?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "address": "5525 Hudson Trail",
+    "city": "Menglie",
+    "loc_lat": 21.459233,
+    "loc_long": 101.564635
+  },
+  {
+    "id": 12,
+    "name": "Bobbie",
+    "rating": 1,
+    "image": "https://images.unsplash.com/photo-1522336572468-97b06e8ef143?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1055&q=80",
+    "address": "52 6th Park",
+    "city": "Mount Frere",
+    "loc_lat": -27.990857,
+    "loc_long": 26.724185
+  },
+  {
+    "id": 13,
+    "name": "Martin",
+    "rating": 2,
+    "image": "https://images.unsplash.com/photo-1544461772-722f499fa2a9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+    "address": "82088 Cambridge Drive",
+    "city": "Dingle",
+    "loc_lat": 10.9991938,
+    "loc_long": 122.6717828
+  },
+  {
+    "id": 14,
+    "name": "Sergei",
+    "rating": 0,
+    "image": "https://images.unsplash.com/photo-1586999768265-24af89630739?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=967&q=80",
+    "address": "16768 Briar Crest Plaza",
+    "city": "Lesuhe",
+    "loc_lat": 33.195258,
+    "loc_long": 106.045443
+  },
+  {
+    "id": 15,
+    "name": "Danny",
+    "rating": 1,
+    "image": "https://images.unsplash.com/photo-1527224538127-2104bb71c51b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+    "address": "9126 Trailsway Circle",
+    "city": "Mboursou Léré",
+    "loc_lat": 9.7639,
+    "loc_long": 14.1539
+  },
+  {
+    "id": 16,
+    "name": "Mame",
+    "rating": 0,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+    "address": "8 Troy Street",
+    "city": "Boucherville",
+    "loc_lat": 45.5833482,
+    "loc_long": -73.4372336
+  },
+  {
+    "id": 17,
+    "name": "Jule",
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1471253794676-0f039a6aae9d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "address": "4 Pierstorff Crossing",
+    "city": "Grästorp",
+    "loc_lat": 58.3374462,
+    "loc_long": 12.5693818
+  },
+  {
+    "id": 18,
+    "name": "Haily",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1488992783499-418eb1f62d08?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1153&q=80",
+    "address": "28 Mendota Avenue",
+    "city": "Obertyn",
+    "loc_lat": 48.6943534,
+    "loc_long": 25.1747279
+  },
+  {
+    "id": 19,
+    "name": "Malissa",
+    "rating": 1,
+    "image": "https://images.unsplash.com/photo-1481833761820-0509d3217039?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "address": "62 Commercial Junction",
+    "city": "Chornobay",
+    "loc_lat": 49.660465,
+    "loc_long": 32.3448813
+  },
+  {
+    "id": 20,
+    "name": "Herc",
+    "rating": 0,
+    "image": "https://images.unsplash.com/photo-1484659619207-9165d119dafe?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+    "address": "8388 Summer Ridge Way",
+    "city": "Staropyshminsk",
+    "loc_lat": 56.9362366,
+    "loc_long": 60.8962022
+  },
+  {
+    "id": 21,
+    "name": "Maurizia",
+    "rating": 1,
+    "image": "https://images.unsplash.com/photo-1464195643332-1f236b1c2255?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80",
+    "address": "4 Kings Parkway",
+    "city": "Sobreira",
+    "loc_lat": 41.1544623,
+    "loc_long": -7.9159974
+  },
+  {
+    "id": 22,
+    "name": "Maribelle",
+    "rating": 3,
+    "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1030&q=80",
+    "address": "08571 Barnett Junction",
+    "city": "Midrand",
+    "loc_lat": -25.9731585,
+    "loc_long": 28.2124013
+  },
+  {
+    "id": 23,
+    "name": "Jessamyn",
+    "rating": 0,
+    "image": "https://images.unsplash.com/photo-1482275548304-a58859dc31b7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80",
+    "address": "0 Homewood Park",
+    "city": "Paihia",
+    "loc_lat": -35.3714074,
+    "loc_long": 174.0890941
+  },
+  {
+    "id": 24,
+    "name": "Tully",
+    "rating": 1,
+    "image": "https://images.unsplash.com/photo-1531973968078-9bb02785f13d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=977&q=80",
+    "address": "438 Lunder Hill",
+    "city": "Aparecida",
+    "loc_lat": -22.8456877,
+    "loc_long": -45.2302005
+  },
+  {
+    "id": 25,
+    "name": "Bertine",
+    "rating": 0,
+    "image": "https://images.unsplash.com/photo-1517638851339-a711cfcf3279?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+    "address": "14639 Fordem Park",
+    "city": "Santa Anita",
+    "loc_lat": 20.5502194,
+    "loc_long": -103.4433056
+  }
+]

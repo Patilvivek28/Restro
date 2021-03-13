@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Restro</string>
+    <string name="title_home">Home</string>
+    <string name="title_details">Restaurant Details</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="description_restaurant_image">Restaurant Image</string>
+    <string name="description_add_new_restaurant">Add new restaurant</string>
+
+    <string name="show_on_map">Show on Map</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="loc_lat">Location (Latitude)</string>
+    <string name="loc_long">Location (Longitude)</string>
+    <string name="get_location">Get Current Location</string>
+</resources>
